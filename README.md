@@ -20,7 +20,7 @@ Other Charts in Power BI Desktop
 Cards & Filters in Power BI
 Slicers in Power BI
 Advanced Charts in Power BI
-Objects & Actions (Hyperlinks)
+Objects & Actions (Hyperlinks) 
 Power BI Service Introduction
 Text Functions in Power Query (Power BI)
 Date Functions in Power Query (Power BI)
